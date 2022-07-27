@@ -1,0 +1,28 @@
+.upHeight{
+  position:absolute; 
+  top:440px; 
+  left:50%; 
+  transform: translateX(-50%);
+  padding: 10px 0px;
+}
+.allWidthLab{
+  width: 1600px;
+  height: 90%;
+}
+.allWidthLabTable{
+  width: 1450px;
+}
+.upHeightAll{
+  position:absolute; 
+  top:400px; 
+  left:50%; 
+  transform: translateX(-50%);
+  padding: 10px 0px;
+}
+.upHeightAllspirma{
+  position:absolute; 
+  top:340px; 
+  left:50%; 
+  transform: translateX(-50%);
+  padding: 10px 0px;
+}
